@@ -6,4 +6,4 @@ In the review tab you are able to create a new review by selecting an image, tit
 
 The insights tab then give a distribution of ratings and a list of achievements with an icon showing whether it has been achieved. 
 
-This app was cerated using SwiftUI along with the use of frameworks such as Core Graphics, UIImagePickerController, and SpriteKit.
+This app was created using SwiftUI along with the use of frameworks such as Core Graphics, UIImagePickerController, and SpriteKit.
