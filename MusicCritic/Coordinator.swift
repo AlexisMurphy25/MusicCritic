@@ -1,7 +1,5 @@
-// Alexis Murphy alenmurp@iu.edu
-// Briana Flores briflore@iu.edu
+// Alexis Murphy
 // App Name: Music Critic
-// Submission Date: 4/24/2024
 //
 //  Coordinator.swift
 //
